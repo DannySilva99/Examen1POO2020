@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Examen1POO\Examen1POO\bin\Debug\netcoreapp3.1\Examen1POO.exe
+C:\Users\User\source\repos\Examen1POO\Examen1POO\bin\Debug\netcoreapp3.1\Examen1POO.deps.json
+C:\Users\User\source\repos\Examen1POO\Examen1POO\bin\Debug\netcoreapp3.1\Examen1POO.runtimeconfig.json
+C:\Users\User\source\repos\Examen1POO\Examen1POO\bin\Debug\netcoreapp3.1\Examen1POO.runtimeconfig.dev.json
+C:\Users\User\source\repos\Examen1POO\Examen1POO\bin\Debug\netcoreapp3.1\Examen1POO.dll
+C:\Users\User\source\repos\Examen1POO\Examen1POO\bin\Debug\netcoreapp3.1\Examen1POO.pdb
+C:\Users\User\source\repos\Examen1POO\Examen1POO\obj\Debug\netcoreapp3.1\Examen1POO.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Examen1POO\Examen1POO\obj\Debug\netcoreapp3.1\Examen1POO.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Examen1POO\Examen1POO\obj\Debug\netcoreapp3.1\Examen1POO.AssemblyInfo.cs
+C:\Users\User\source\repos\Examen1POO\Examen1POO\obj\Debug\netcoreapp3.1\Examen1POO.dll
+C:\Users\User\source\repos\Examen1POO\Examen1POO\obj\Debug\netcoreapp3.1\Examen1POO.pdb
